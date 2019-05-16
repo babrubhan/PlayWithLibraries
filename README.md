@@ -1,1 +1,3 @@
-# PlayWithLibraries
+# Static Libraries
+#Dyanmic Libraries
+
