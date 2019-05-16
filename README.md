@@ -1,3 +1,2 @@
-# Static Libraries
-#Dyanmic Libraries
+# Static Libraries - Dyanmic Libraries
 
